@@ -8,7 +8,7 @@ Known problem areas:
 
 Manifest:
       - Bian: Create grid and collectables. Create all player, collectibles, environment scripts.
-      - Zheng: Created enemy and GameManager scripts. Updated collectibles and power up scripts. Improved and created new enemy behavior.
-      - Moodi: Create lose/win/pause/start screen assets. Added in PauseMenuToggle, GameStarter, GameQuitter and assisted in GameManager and collectibles scripts. Added lose condition. 
       - Marcus: Created player asset and enemy assets and animations.
-      - Mathew: Created all original audio, including music (start screen and in game) and sound effects (coin, star, eat enemy, and death). Edited most scripts with focus on AudioManager, FollowPlayer, PlayerController, and PlayerManager. Added jumping, score text, lose/win screen text, and edited start and instructions screens.
+      - Mathew: Created all original audio. Improve scripts with relevant to Player Control. Added jumping, score text, lose/win screen text for scenes.
+      - Moodi: Create initial lose/win/pause/start scenes. Added in PauseMenuToggle, GameStarter, GameQuitter and assisted in GameManager and collectibles scripts.
+      - Zheng: Created enemy and GameManager scripts. Updated collectibles and power up scripts. Improved and created new enemy behavior. Create environment model set. 
